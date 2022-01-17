@@ -38,6 +38,3 @@ Last Updated: Monday, January 17th, 2022, 12:56:32 AM (GMT)
 5. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
 <!--RECENT_ACTIVITY:end-->
 
-![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
-
-![Metrics](https://github.com/gagan3012/gagan3012/blob/main/github-metrics.svg)
