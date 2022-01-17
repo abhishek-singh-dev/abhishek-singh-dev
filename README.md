@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **Machine Learning, NLP and Backend Development**
 
-- 📫 How to reach me **gbhatia880@gmail.com**
+- 📫 How to reach me **aks.abhishek7@gmail.com**
 
-- 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1VebQQLX8_SjgyhgccZByyDmtsXevF4Zf/view?usp=sharing)
+- 📄 Know about my experiences [**LinkedIn here**](www.linkedin.com/in/abhishek-singh-kumar)
 
 - ⚡ Fun fact **I am Mental Health advocate! 🧠**
 
