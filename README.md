@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">Full Stack Software Developer | Machine Learning Engineer</h3>
 
-- 🌱 I’m currently learning **NLP and Computer Vision**
+- 🌱 I’m currently working as **Data Engineer**
 
-- 💬 Ask me about **Machine Learning, NLP and Backend Development**
+- 💬 Ask me about **Data Engineering, Machine Learning and NLP**
 
 - 📫 How to reach me **aks.abhishek7@gmail.com**
 
